@@ -11,9 +11,9 @@ I was forced to churn out functional code and ignore pragmatics.
   Create a project file and include all the files from the source directory.
   
     The following object files are required for the successful build of the project.
-      EGAVGA.OBJ
-      SANS.OBJ
-      TRIP.OBJ
+      EGAVGA.OBJ   - Required for the successful execution of graphics functions.
+      SANS.OBJ     - Font Style required by the program. 
+      TRIP.OBJ     - Font Style required by the program.
       
   
 # Author
