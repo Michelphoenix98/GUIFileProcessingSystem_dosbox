@@ -15,10 +15,16 @@ I was forced to churn out functional code and ignore pragmatics.
       SANS.OBJ     - Font Style required by the program. 
       TRIP.OBJ     - Font Style required by the program.
       
+   ![](pics/ui.png)
+      
   
 # Author
 
  Michel Thomas
+ 
+# License
+ 
+ GNU General Public License, version 2
 
 # Acknowledgments
 
